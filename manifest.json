@@ -1,0 +1,16 @@
+{
+"name": "My pwa test app",
+"short_name" : "pwa test",
+"lang": "en_US",
+"start_url":"/",
+"backgroung_color":""
+"theme_color":
+"display":
+"icons":[
+{
+"src":
+"sizes":
+"type":
+"density":
+},
+
